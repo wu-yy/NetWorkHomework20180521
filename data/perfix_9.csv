@@ -1,0 +1,14 @@
+﻿prefix,asNumber,asName,asOrg,usage
+3.0.0.0/9,NA,NA, ,美国AmazonEC2服务器
+3.128.0.0/9,NA,NA, ,美国康涅狄格州费尔菲尔德县费尔菲尔德镇通用电气公司
+4.0.0.0/9,3356,LEVEL3,ARIN,
+4.128.0.0/9,3356,LEVEL3,ARIN,美国科罗拉多州布隆菲尔德市Level3通信股份有限公司
+6.128.0.0/9,NA,NA, ,美国亚利桑那州华楚卡堡市美国国防部网络中心
+8.0.0.0/9,3356,LEVEL3,ARIN,
+8.128.0.0/9,NA,NA, ,美国科罗拉多州布隆菲尔德市Level3通信股份有限公司
+9.128.0.0/9,NA,NA, ,美国纽约IBM公司
+12.0.0.0/9,7018,ATT-INTERNET4,ARIN,
+12.128.0.0/9,7018,ATT-INTERNET4,ARIN,
+17.0.0.0/9,714,APPLE-ENGINEERING,ARIN,
+17.128.0.0/9,714,APPLE-ENGINEERING,ARIN,
+18.0.0.0/9,3,"MIT-GATEWAYS - Massachusetts Institute of Technology, US",ARIN,美国麻省理工学院
